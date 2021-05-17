@@ -1,2 +1,2 @@
 # MakeNotes
-Using JS and Bootstrap
+Using HTML, JS and Bootstrap

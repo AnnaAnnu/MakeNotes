@@ -1,4 +1,4 @@
-# MakeNotes
+# ToDoList
 Using HTML, JS and Bootstrap
 
 
